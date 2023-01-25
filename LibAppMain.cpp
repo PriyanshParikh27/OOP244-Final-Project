@@ -1,14 +1,7 @@
-// Final Project Milestone 5
-// LipApp Main
-// Version 1.0
-// Author	Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
+
 /*
 *****************************************************************************
-                  Final Project Milestone 5
+                  Final Project Milestone 
 Full Name  : Priyansh Parikh
 Student ID#: 158341214
 Email      : pparikh8@myseneca.ca
